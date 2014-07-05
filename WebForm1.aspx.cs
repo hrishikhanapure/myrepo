@@ -27,7 +27,7 @@ namespace WebApplication6
             Class2 cls1 = new Class2()
             {
                 Id = 1827,
-                Name = "Hrishi",
+                Name = "HRishikesh",
                 Salary = 90000
             };
 
