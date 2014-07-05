@@ -1,0 +1,29 @@
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\hrishikesh\documents\visual studio 2013\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+F:\my repo project\bin\WebApplication6.dll.config
+F:\my repo project\bin\WebApplication6.dll
+F:\my repo project\bin\WebApplication6.pdb
+F:\my repo project\bin\Newtonsoft.Json.dll
+F:\my repo project\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+F:\my repo project\obj\Debug\WebApplication6.dll
+F:\my repo project\obj\Debug\WebApplication6.pdb
+F:\hti\bin\WebApplication6.dll.config
+F:\hti\bin\WebApplication6.dll
+F:\hti\bin\WebApplication6.pdb
+F:\hti\bin\Newtonsoft.Json.dll
+F:\hti\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+F:\hti\obj\Debug\WebApplication6.dll
+F:\hti\obj\Debug\WebApplication6.pdb
+G:\project\bin\WebApplication6.dll.config
+G:\project\bin\WebApplication6.dll
+G:\project\bin\WebApplication6.pdb
+G:\project\bin\Newtonsoft.Json.dll
+G:\project\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+G:\project\obj\Debug\WebApplication6.dll
+G:\project\obj\Debug\WebApplication6.pdb
