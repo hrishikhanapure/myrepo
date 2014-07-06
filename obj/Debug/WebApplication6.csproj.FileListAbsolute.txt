@@ -27,10 +27,3 @@ G:\project\bin\Newtonsoft.Json.dll
 G:\project\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
 G:\project\obj\Debug\WebApplication6.dll
 G:\project\obj\Debug\WebApplication6.pdb
-E:\mygithub\myrepo\bin\WebApplication6.dll.config
-E:\mygithub\myrepo\bin\WebApplication6.dll
-E:\mygithub\myrepo\bin\WebApplication6.pdb
-E:\mygithub\myrepo\bin\Newtonsoft.Json.dll
-E:\mygithub\myrepo\obj\Debug\WebApplication6.dll
-E:\mygithub\myrepo\obj\Debug\WebApplication6.pdb
-E:\mygithub\myrepo\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
