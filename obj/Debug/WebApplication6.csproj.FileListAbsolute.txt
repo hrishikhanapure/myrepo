@@ -33,3 +33,4 @@ E:\mygithub\myrepo\bin\WebApplication6.pdb
 E:\mygithub\myrepo\bin\Newtonsoft.Json.dll
 E:\mygithub\myrepo\obj\Debug\WebApplication6.dll
 E:\mygithub\myrepo\obj\Debug\WebApplication6.pdb
+E:\mygithub\myrepo\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
