@@ -1,7 +1,0 @@
-F:\hti\bin\WebApplication6.dll.config
-F:\hti\bin\WebApplication6.dll
-F:\hti\bin\WebApplication6.pdb
-F:\hti\bin\Newtonsoft.Json.dll
-F:\hti\obj\Release\WebApplication6.csprojResolveAssemblyReference.cache
-F:\hti\obj\Release\WebApplication6.dll
-F:\hti\obj\Release\WebApplication6.pdb
