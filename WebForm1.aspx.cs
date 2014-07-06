@@ -21,7 +21,7 @@ namespace WebApplication6
             Class1 cls = new Class1()
             {
                 Id = 1827,
-                Name = "asdf"
+                Name = "asasdfasddf"
             };
             Response.Write(Newtonsoft.Json.JsonConvert.SerializeObject(cls));
             //Class2 cls1 = new Class2()
