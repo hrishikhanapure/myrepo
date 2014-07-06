@@ -12,7 +12,7 @@ namespace WebApplication6
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            SearlizeJson();
+           // SearlizeJson();
             
         }
 
