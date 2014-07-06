@@ -31,7 +31,7 @@ namespace WebApplication6
             //    Salary = 90000
             //};
 
-            Response.Write(Newtonsoft.Json.JsonConvert.SerializeObject(cls1));
+           // Response.Write(Newtonsoft.Json.JsonConvert.SerializeObject(cls1));
         }
     }
 }
